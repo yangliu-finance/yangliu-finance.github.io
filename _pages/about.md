@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yang Liu, a Ph.D. candidate in Finance at the School of Economics and Management, Tsinghua University.
+I am a Ph.D. candidate in Finance at the School of Economics and Management, Tsinghua University.
 
-My research interests are empirical asset pricing, machine learning.
+**Research Interests**: Empirical Asset Pricing, Machine Learning.
 
-You can mail me: `liuy9.15@sem.tsinghua.edu.cn`
+**Email**: liuy9.15@sem.tsinghua.edu.cn
 
 <!---
 You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/yangliu_CV.pdf) here.
