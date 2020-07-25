@@ -12,11 +12,8 @@ I’m a Ph.D. candidate in Finance at the School of Economics and Management, Ts
 
 My research interests are empirical asset pricing, machine learning, and stock market.
 
-You can download my Curriculum Vitae here.
 
-You can download my * [Curriculum Vitae](https://yangliu-finance.github.io/files/yangliu_CV.pdf) here.
-
-Hello!
+You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/yangliu_CV.pdf) here.
 
 
 Downloads
