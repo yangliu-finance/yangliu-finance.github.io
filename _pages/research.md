@@ -6,17 +6,21 @@ author_profile: true
 ---
 
 
-+ Trend Factor in China: The Role of Large Individual Trading
+Working Papers
+----
+
++ **Cross-section of stock returns: Learning with Genetic Programming**, with Guofu zhou and Yingzi Zhu
+  + In this paper, we examine various ML models in predicting the stock returns.
+
++ **Trend Factor in China: The Role of Large Individual Trading**, with Guofu zhou and Yingzi Zhu
   + In this paper, we propose a model.
   + Available in SSRN: [https://ssrn.com/abstract=3402038](https://ssrn.com/abstract=3402038)
 
-+ Choosing Factors: Explanatory Power vs Model Parsimony
++ **Choosing Factors: Explanatory Power vs Model Parsimony**
 
   + In this paper, we examine the effect.
   + Download [here](https://yangliu-finance.github.io/files/WorkingPaper.pdf)
 
 
-
-这里是Research页顶部的内容，下面的内容是在 `_publications` 目录下，按MarkDown语法规则写内容即可，[MarkDown语法教程看这里](http://xianbai.me/learn-md/article/about/readme.html)
 
 
