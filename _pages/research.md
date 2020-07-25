@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-Working Papers:
-----
+Working Papers
+------
 
 + **Trend Factor in China: The Role of Large Individual Trading**, with Guofu zhou and Yingzi Zhu
   + In this paper, we propose a model.
