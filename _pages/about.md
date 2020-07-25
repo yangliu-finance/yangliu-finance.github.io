@@ -14,6 +14,9 @@ My research interests are empirical asset pricing, machine learning, and stock m
 
 You can download my Curriculum Vitae here.
 
+You can download my * [Curriculum Vitae](https://yangliu-finance.github.io/files/yangliu_CV.pdf) here.
+
+
 Downloads
 ------
 * [下载CV.pdf](https://yangliu-finance.github.io/files/yangliu_CV.pdf) 
