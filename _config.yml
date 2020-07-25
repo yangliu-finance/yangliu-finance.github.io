@@ -84,7 +84,7 @@ author:
   avatar           : "Photo_Yang.jpg"
   bio              : "Finance Ph.D. Candidate, School of Economics and Management, Tsinghua University" #  in STL Econometrics · Statistics · ML
   location         : "Beijing, China" # "Washington University in St. Louis"
-  employer         : "http://www.sem.tsinghua.edu.cn/en/"
+  employer         : # "http://www.sem.tsinghua.edu.cn/en/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : liuy9.15@sem.tsinghua.edu.cn
