@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Liu (刘扬)" #"yangliu-finance"
+title                    : "Yang Liu" #"yangliu-finance"
 title_separator          : "-"
 name                     : &name "yangliu"
 description              : &description "Finance PhD Candidate"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Liu"
+  name             : "Yang Liu （刘扬）"
   avatar           : "Photo_Yang.jpg"
   bio              : "Finance Ph.D. Candidate, School of Economics and Management, Tsinghua University" #  in STL Econometrics · Statistics · ML
   location         : "Beijing, China" # "Washington University in St. Louis"
