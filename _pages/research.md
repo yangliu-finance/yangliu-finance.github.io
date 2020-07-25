@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working papers
 
 + Trend Factor in China: The Role of Large Individual Trading
   + In this paper, we propose a model.
