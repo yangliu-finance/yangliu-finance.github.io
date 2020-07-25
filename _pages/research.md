@@ -19,6 +19,4 @@ author_profile: true
 
 这里是Research页顶部的内容，下面的内容是在 `_publications` 目录下，按MarkDown语法规则写内容即可，[MarkDown语法教程看这里](http://xianbai.me/learn-md/article/about/readme.html)
 
-修改的时候，下面这些代码不要动
-
 
