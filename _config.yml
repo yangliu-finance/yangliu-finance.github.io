@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "yangliu-finance"
+title                    : "Yang Liu" #"yangliu-finance"
 title_separator          : "-"
 name                     : &name "yangliu"
-description              : &description "Economics PhD Candidate"
+description              : &description "Finance PhD Candidate"
 url                      : https://yangliu-finance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangliu-finance.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "yangliu"
+  name             : "Yang Liu"
   avatar           : "Photo_Yang.jpg"
-  bio              : "Economics PhD Candidate Washington University in STL Econometrics · Statistics · ML"
-  location         : "St. Louis, MO" # "Washington University in St. Louis"
+  bio              : "Finance Ph.D. Candidate, School of Economics and Management, Tsinghua University" #  in STL Econometrics · Statistics · ML
+  location         : "Beijing, China" # "Washington University in St. Louis"
   employer         : # "https://economics.wustl.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yangliu-finance"
+  github           : # "yangliu-finance"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yangliu"
+  linkedin         : # "yangliu"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yangliu"
+  twitter          : # "yangliu"
   vine             :
   weibo            :
   xing             :
