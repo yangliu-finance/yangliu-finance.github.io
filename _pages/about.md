@@ -16,5 +16,5 @@ I am Yang Liu, a Ph.D. candidate in Finance at the School of Economics and Manag
 
 **Tel**: (+86) 13001239008
 
-You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/CV_YangLiu_TsinghuaSEM_Nov2020.pdf) here.
+You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/CV_YangLiu_TsinghuaSEM_Nov2020.pdf) here. 
  
