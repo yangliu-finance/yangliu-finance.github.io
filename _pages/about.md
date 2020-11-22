@@ -19,7 +19,13 @@ The resulting factor model significantly outperforms the existing models in term
 serving as the Carhart model in China. 
 We also provide a theoretical explanation of the trend factor and verify it across international market tests. 
 
-
+In another study on machine learning, I use genetic programming (GP) to construct a
+new framework for predicting the cross-section of stock returns. Different from the
+common ML algorithms which focus on minimizing the mean-squared error, I employ GP
+ to maximize an economic objective, the Sharpe ratio of the usual spread portfolio. 
+ Compared with the conventional regression-based methods and
+the neural network, GP can double their performance in the US, and outperform them
+internationally.
 
 
 **Email**: liuy9.15@sem.tsinghua.edu.cn
