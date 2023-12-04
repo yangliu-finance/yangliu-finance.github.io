@@ -11,7 +11,7 @@ Publications
 ------
 
 + **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
-  + **<font color="blue">Review of Asset Pricing Studies</font>**<font color="red">, forthcoming.</font>
+  + **<font color="blue">Review of Asset Pricing Studies</font>**<font color="blue">, forthcoming.</font>
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
   + Presented at: 2018 CFRIC, 2018 IAFDS, 2019 CICF, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, 2021 AFA Ph.D. Poster.
   + Available at: [https://ssrn.com/abstract=3402038](https://ssrn.com/abstract=3402038)
@@ -21,7 +21,7 @@ Publications
   -->
 
 + **Technical Analysis in the Stock Market: A Review**, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
-  + **<font color="blue">Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives</font>**<font color="red">, forthcoming.</font>
+  + **<font color="blue">Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives</font>**<font color="blue">, forthcoming.</font>
   + Available at: [https://ssrn.com/abstract=3850494](https://ssrn.com/abstract=3850494)
   + Technical analysis is the study for forecasting future asset prices with past data. In this survey, we review and extend studies on not only the time-series predictive power of technical indicators on the aggregated stock market and various portfolios, but also the cross-sectional predictability with various firm characteristics. While we focus on reviewing major academic research on using traditional technical indicators, but also discuss briefly recent studies that apply machine learning approaches, such as Lasso, neural network and genetic programming, to forecast returns both in the time-series and in the cross-section.
 
