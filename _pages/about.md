@@ -38,5 +38,5 @@ internationally.
 # **Tel**: (+86) 13001239008
 -->
 
-You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/CV_YangLiu_TsinghuaSEM_Nov2020.pdf) here. 
+You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/CV_YangLiu_231204.pdf) here. 
  
