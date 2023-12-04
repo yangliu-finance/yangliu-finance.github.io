@@ -11,10 +11,11 @@ redirect_from:
 Welcome to my website!
 
 I am an Assistant Professor of Finance, College of Finance and Statistics, Hunan Univeristy in China.
+I got my Ph.d. degree of Finance from Tsinghua University, and 
 
 **Research Interests**: Empirical Asset Pricing, Machine Learning, Portfolio Optimization
 
-
+<!---
 My research covers the global financial markets, with a strong focus on the Chinese stock markets.
 In a study on Chinese A-Share, I incorporate the volume info to construct a Trend factor to
 reflect the critical feature of large individual trading in China.
@@ -28,7 +29,7 @@ to construct a new framework for predicting the cross-section of stock returns b
  Compared with the conventional regression-based methods and
 the neural network, GP can double their performance in the US, and outperform them
 internationally.
-
+-->
 
 **Email**: liuyang9@hnu.edu.cn
 
