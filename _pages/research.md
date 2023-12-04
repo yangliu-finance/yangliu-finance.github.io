@@ -6,19 +6,24 @@ author_profile: true
 ---
 
 
-Working Papers
+
+Publications
 ------
 
-+ **Trend Factor in China: The Role of Large Individual Trading**, (Under review) with Guofu zhou (WashU) and Yingzi Zhu (TsinghuaU)
++ **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
+  + **Review of Asset Pricing Studies**, forthcoming.
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
   + Available at: [https://ssrn.com/abstract=3402038](https://ssrn.com/abstract=3402038)
-  + Presented at: seminars at Gothenburg University, Lund University, Southwestern University of Finance and Economics, Stockholm University, Tsinghua University, University of Cincinnati, UIUC, and Washington University in St. Louis; 2018 CFRIC, 2018 IAFDS, 2019 CICF, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, 2021 AFA Ph.D. Poster (scheduled).
-  + We propose a 4-factor model for the Chinese stock market by adding a trend factor into the market, size, and value of Liu, Stambaugh, and Yuan's (2019) 
-  3-factor model. Because of up to 80% of individual trading, the trend factor captures salient relevant price and volume trends,
-  and earns a monthly Sharpe ratio of 0.48, much greater than that of the market (0.11), size (0.20), and value (0.28). 
-  The 4-factor model explains well a number of stylized facts and anomalies of the Chinese stock market. It also explains well mutual fund returns, 
-  serving as an analogue of Carhart’s (1997) model in China.
+  + Presented at: seminars at Gothenburg University, Lund University, Southwestern University of Finance and Economics, Stockholm University, Tsinghua University, University of Cincinnati, UIUC, and Washington University in St. Louis; 2018 CFRIC, 2018 IAFDS, 2019 CICF, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, 2021 AFA Ph.D. Poster.
+  + We propose a novel trend factor for the Chinese stock market, which incorporates both price and volume information to capture dominant individual trading, momentum, and liquidity. We find that volume plays a more significant role in the trend factor for China than for the US, reflecting the greater retail participation in China. By incorporating this trend factor into the 3-factor model of Liu et al. (2019), we propose a 4-factor model that explains a wide range of stylized facts and 60 representative anomalies. Our study highlights the important role of individual trading in asset pricing, especially in China.
   
+
+
+
+
+
+Working Papers
+------
 
 
 + **Maximizing the Sharpe Ratio: A Genetic Programming Approach**, with Guofu zhou (WashU) and Yingzi Zhu (TsinghuaU)
