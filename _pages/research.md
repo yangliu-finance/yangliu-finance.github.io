@@ -45,7 +45,7 @@ Working Papers
 
 + **Overnight-Intradat Reversal Everywhere**, with Robert Kosowski, Chun Liu, and Tianyu Wang
   + Presented at 2016 AsianFA, 2016 CICF
-  + Available at: [https://ssrn.com/abstract=3726609](https://ssrn.com/abstract=4605208)
+  + Available at: [https://ssrn.com/abstract=4605208](https://ssrn.com/abstract=4605208)
   + A strategy that buys securities with low past overnight returns and sells securities with high 
   past overnight returns generates sizeable out-of-sample excess returns and Sharpe ratios. 
   This strategy -- labelled as overnight-intraday reversal strategy -- outperforms the conventional
