@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang LIU" #"yangliu-finance"
+title                    : "About me" #"yangliu-finance"
 title_separator          : "-"
 name                     : &name "yangliu"
 description              : &description "Finance PhD Candidate"
