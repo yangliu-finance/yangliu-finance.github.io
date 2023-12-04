@@ -18,8 +18,10 @@ Publications
   + We propose a novel trend factor for the Chinese stock market, which incorporates both price and volume information to capture dominant individual trading, momentum, and liquidity. We find that volume plays a more significant role in the trend factor for China than for the US, reflecting the greater retail participation in China. By incorporating this trend factor into the 3-factor model of Liu et al. (2019), we propose a 4-factor model that explains a wide range of stylized facts and 60 representative anomalies. Our study highlights the important role of individual trading in asset pricing, especially in China.
   
 
-
-
++ **Technical Analysis in the Stock Market: A Review**, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
+  + **Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives**, forthcoming.
+  + Available at: [https://ssrn.com/abstract=3850494](https://ssrn.com/abstract=3850494)
+  + Technical analysis is the study for forecasting future asset prices with past data. In this survey, we review and extend studies on not only the time-series predictive power of technical indicators on the aggregated stock market and various portfolios, but also the cross-sectional predictability with various firm characteristics. While we focus on reviewing major academic research on using traditional technical indicators, but also discuss briefly recent studies that apply machine learning approaches, such as Lasso, neural network and genetic programming, to forecast returns both in the time-series and in the cross-section.
 
 
 Working Papers
@@ -59,8 +61,6 @@ Work in Progress
   interest rates, commodities, and currencies. Consistent with time-varying limits to arbitrage we find that 
   cross-sectional return volatility explains the returns from this strategy.
 
-+ **Technical Analysis in the Stock Market: A Review**, with Yufeng Han (UNCC), Guofu Zhou (WashU), and Yingzi Zhu (TsinghuaU)
-  + Technical analysis is the study for forecasting prices via past data. In this survey, we examine not only the time-series predictive power of technical indicators on the aggregated stock market and various portfolios, but also the cross-sectional predictability of stocks whose long-short portfolios earn substantial abnormal returns. We focus on reviewing and updating some of the major academic research on traditional technical analysis methods, but also discuss briefly some of the recent machine learning approaches such as Lasso, neural network and genetic programming.
 
 + **Choosing Factors: Explanatory Power vs Model Parsimony**
   + We examine which factor collection, in the model space spanned by existing factors, performs best in terms of the balance between explanatory power and model parsimony. Taking the union of the factors in the recent notable models, our comparison of 512 models shows that Liu, Zhou, and Zhu’s (2020) four factor model achieves the greatest explanatory power measured by the Sharpe ratio among all those satisfying model parsimony condition. Moreover, this model exhibits greater ability in explaining various test assets, and it also earns persistent premium.
