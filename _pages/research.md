@@ -10,7 +10,7 @@ author_profile: true
 Publications
 ------
 
-+ <font color="blue">Trend Factor in China: The Role of Large Individual Trading</font>, with Guofu Zhou and Yingzi Zhu
++ **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
   + **<font color="red">Review of Asset Pricing Studies</font>**<font color="red">, forthcoming.</font>
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
   + Presented at: 2018 CFRIC, 2018 IAFDS, 2019 CICF, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, 2021 AFA Ph.D. Poster.
@@ -20,7 +20,7 @@ Publications
   seminars at Gothenburg University, Lund University, Southwestern University of Finance and Economics, Stockholm University, Tsinghua University, University of Cincinnati, UIUC, and Washington University in St. Louis;
   -->
 
-+ <font color="blue">Technical Analysis in the Stock Market: A Review</font>, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
++ **Technical Analysis in the Stock Market: A Review**, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
   + **<font color="red">Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives</font>**<font color="red">, forthcoming.</font>
   + Available at: [https://ssrn.com/abstract=3850494](https://ssrn.com/abstract=3850494)
   + Technical analysis is the study for forecasting future asset prices with past data. In this survey, we review and extend studies on not only the time-series predictive power of technical indicators on the aggregated stock market and various portfolios, but also the cross-sectional predictability with various firm characteristics. While we focus on reviewing major academic research on using traditional technical indicators, but also discuss briefly recent studies that apply machine learning approaches, such as Lasso, neural network and genetic programming, to forecast returns both in the time-series and in the cross-section.
@@ -30,7 +30,7 @@ Working Papers
 ------
 
 
-+ <font color="blue">Maximizing the Sharpe Ratio: A Genetic Programming Approach</font>, with Guofu Zhou and Yingzi Zhu 
++ **Maximizing the Sharpe Ratio: A Genetic Programming Approach**, with Guofu Zhou and Yingzi Zhu 
   + Presented at:  2018 IAFDS, 2019 CFPDS, 2019 CFRIC, 2020 China FinTech Conference, 2021 CICF, 2023 AMES, 2024 AFA (scheduled).
   + Available at: [https://ssrn.com/abstract=3726609](https://ssrn.com/abstract=3726609)
   + While common machine learning algorithms focus on minimizing the mean-square errors of model fit, 
@@ -43,7 +43,7 @@ Working Papers
   seminars in London Business School, Sichuan University, Tsinghua University, Washington University in St. Louis, and Zhejiang University;
   -->
 
-+ <font color="blue">Overnight-Intradat Reversal Everywhere</font>, with Robert Kosowski, Chun Liu, and Tianyu Wang
++ **Overnight-Intradat Reversal Everywhere**, with Robert Kosowski, Chun Liu, and Tianyu Wang
   + Presented at 2016 AsianFA, 2016 CICF
   + Available at: [https://ssrn.com/abstract=3726609](https://ssrn.com/abstract=3726609)
   + A strategy that buys securities with low past overnight returns and sells securities with high 
@@ -54,7 +54,7 @@ Working Papers
   cross-sectional return volatility explains the returns from this strategy.
 
   
-+ <font color="blue">Return Asymmetry and the Cross-section of Stock Returns: Theory and Evidence</font>, with Yingzi Zhu
++ **Return Asymmetry and the Cross-section of Stock Returns: Theory and Evidence**, with Yingzi Zhu
   + We extend the CAPM to incorporate the return asymmetry in the cross-section of stock returns. We
 motivate our asymmetry measure based on a general return distribution beyond normal distribution and
 derive the risk premium due to asymmetry. Empirically, our asymmetry measure negatively predicts the
