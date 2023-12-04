@@ -12,7 +12,8 @@ Welcome to my website!
 
 I am an Assistant Professor of Finance, College of Finance and Statistics, Hunan Univeristy in China.
 
-**Research Interests**: Empirical Asset Pricing, Machine Learning, Investment Management
+**Research Interests**: Empirical Asset Pricing, Machine Learning, Portfolio Optimization
+
 
 My research covers the global financial markets, with a strong focus on the Chinese stock markets.
 In a study on Chinese A-Share, I incorporate the volume info to construct a Trend factor to
