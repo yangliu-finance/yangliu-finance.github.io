@@ -10,7 +10,7 @@ author_profile: true
 Publications
 ------
 
-+ **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
++ **<font color="blue">Trend Factor in China: The Role of Large Individual Trading</font>**, with Guofu Zhou and Yingzi Zhu
   + **<font color="red">Review of Asset Pricing Studies</font>**, <font color="red">forthcoming</font>.
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
   + Presented at: 2018 CFRIC, 2018 IAFDS, 2019 CICF, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, 2021 AFA Ph.D. Poster.
