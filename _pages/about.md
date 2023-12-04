@@ -32,9 +32,11 @@ the neural network, GP can double their performance in the US, and outperform th
 internationally.
 -->
 
-**Email**: liuyang9@hnu.edu.cn
+**e-mail**: liuyang9@hnu.edu.cn
 
-**Tel**: (+86) 13001239008
+<!---
+# **Tel**: (+86) 13001239008
+-->
 
 You can download my [Curriculum Vitae](https://yangliu-finance.github.io/files/CV_YangLiu_TsinghuaSEM_Nov2020.pdf) here. 
  
