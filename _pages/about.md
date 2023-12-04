@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YANG LIU"
+title: "Yang LIU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
