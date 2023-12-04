@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "YANG LIU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yang Liu, a Ph.D. candidate in Finance at the School of Economics and Management, Tsinghua University. I am on the 2020/2021 job market and am available for interviews.
+Welcome to my website!
+
+I am an Assistant Professor of Finance, College of Finance and Statistics, Hunan Univeristy in China.
 
 **Research Interests**: Empirical Asset Pricing, Machine Learning, Investment Management
 
@@ -27,7 +29,7 @@ the neural network, GP can double their performance in the US, and outperform th
 internationally.
 
 
-**Email**: liuy9.15@sem.tsinghua.edu.cn
+**Email**: liuyang9@hnu.edu.cn
 
 **Tel**: (+86) 13001239008
 
