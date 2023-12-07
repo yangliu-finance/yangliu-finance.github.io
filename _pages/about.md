@@ -11,10 +11,10 @@ redirect_from:
 Welcome to my website!
 
 I am an Assistant Professor of Finance in Hunan Univeristy.
-I received the Ph.d. degree in Finance from Tsinghua University in 2021,
-and the bachelor degree in Financial Engineering from Central University of Finance and Economics in 2015.
+I received my Ph.d. degree in Finance from Tsinghua University in 2021,
+and the bachelor degree in Financial Engineering from the Central University of Finance and Economics in 2015.
 
-**Research Interests**: Empirical Asset Pricing, Machine Learning, Behavioral Finance
+**Research Interests**: Empirical Asset Pricing, Machine Learning, Behavioral Finance.
 
 <!---
 My research covers the global financial markets, with a strong focus on the Chinese stock markets.
