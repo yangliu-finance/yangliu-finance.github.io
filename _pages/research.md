@@ -69,6 +69,15 @@ applications in asset pricing.
 
 
 
+Conference Discussions
+------
+
++ **Teaching Economics to the Machine**
+  + Conference: 2023 AMES (Asian Meeting of Econometric Society)
+  + By Hui Chen, Yuhan Cheng, Yanchu Liu, Ke Tang
+  + Slides: 
+
+
 
 <!---
 Work in Progress
