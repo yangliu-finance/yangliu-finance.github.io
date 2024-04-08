@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research and Discussion"
 permalink: /research/
 author_profile: true
 ---
@@ -72,10 +72,9 @@ applications in asset pricing.
 Conference Discussions
 ------
 
-+ **Teaching Economics to the Machine**
++ **Teaching Economics to the Machine**, by Hui Chen, Yuhan Cheng, Yanchu Liu, Ke Tang
   + Conference: 2023 AMES (Asian Meeting of Econometric Society)
-  + By Hui Chen, Yuhan Cheng, Yanchu Liu, Ke Tang
-  + Slides: 
+  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf) 
 
 
 
