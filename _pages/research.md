@@ -74,7 +74,15 @@ Conference Discussions
 
 + **Teaching Economics to the Machine**, by Hui Chen, Yuhan Cheng, Yanchu Liu, Ke Tang
   + Conference: 2023 AMES (Asian Meeting of Econometric Society)
-  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf) 
+  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf)
+
+
+<!---
++ **金融科技研究前沿**, 洪永淼， 李玉婷， 姚加权
+  + 会议：2023《经济研究》-互联网数字经济论坛
+  + [材料](https://yangliu-finance.github.io/files/Discuss_2023_Hong_FinTech.pdf)
+  +-->
+  
 
 + **Green or Brown? Choosing an Overpriced Stock to Short Sell**, by Weiming (Elaine) Zhang, and Xintong Zhan
   + Conference: 2023 CFRI&CIRF Joint Conference
