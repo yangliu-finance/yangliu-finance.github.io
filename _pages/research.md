@@ -76,7 +76,9 @@ Conference Discussions
   + Conference: 2023 AMES (Asian Meeting of Econometric Society)
   + [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf) 
 
-
++ **Green or Brown? Choosing an Overpriced Stock to Short Sell**, by Weiming (Elaine) Zhang, and Xintong Zhan
+  + Conference: 2023 CFRI&CIRF Joint Conference
+  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023CFRI_Zhang_GreenOrBrown.pdf) 
 
 <!---
 Work in Progress
