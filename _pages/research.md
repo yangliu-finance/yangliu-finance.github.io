@@ -13,7 +13,7 @@ Publications
 + **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
   + **<font color="blue">Review of Asset Pricing Studies</font>**<font color="blue">, forthcoming.</font>
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
-  + Presented at: 2018 CFRIC, 2018 IAFDS, <font color="red"> 2019 CICF </font>, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, <font color="red"> 2021 AFA </font> (Ph.D. Poster).
+  + Presented at: 2018 CFRIC, 2018 IAFDS, <font color="blue"> 2019 CICF </font>, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, <font color="red"> 2021 AFA </font> (Ph.D. Poster).
   + Available at: [https://ssrn.com/abstract=3402038](https://ssrn.com/abstract=3402038)
   + We propose a novel trend factor for the Chinese stock market, which incorporates both price and volume information to capture dominant individual trading, momentum, and liquidity. We find that volume plays a more significant role in the trend factor for China than for the US, reflecting the greater retail participation in China. By incorporating this trend factor into the 3-factor model of Liu et al. (2019), we propose a 4-factor model that explains a wide range of stylized facts and 60 representative anomalies. Our study highlights the important role of individual trading in asset pricing, especially in China.
   + You can download the [Factor Data](https://yangliu-finance.github.io/files/LZZ4_TrendFactor_Monthly&Daily.xls) (monthly and daily) here. 
@@ -32,7 +32,7 @@ Working Papers
 
 
 + **Maximizing the Sharpe Ratio: A Genetic Programming Approach**, with Guofu Zhou and Yingzi Zhu 
-  + Presented at:  2018 IAFDS, 2019 CFPDS, 2019 CFRIC, 2020 China FinTech Conference, 2021 CICF, 2023 AMES, 2024 AFA.
+  + Presented at:  2018 IAFDS, 2019 CFPDS, 2019 CFRIC, 2020 China FinTech Conference, <font color="blue">  2021 CICF</font>, <font color="blue"> 2023 AMES</font>, <font color="blue"> 2024 AFA</font>.
   + Available at: [https://ssrn.com/abstract=3726609](https://ssrn.com/abstract=3726609)
   + While common machine learning algorithms focus on minimizing the mean-square errors of model fit, 
   we show that genetic programming, GP, is well-suited to maximize an economic objective, the Sharpe ratio of 
