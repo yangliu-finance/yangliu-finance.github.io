@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Publications
+Selected Publications
 ------
 
 + **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
