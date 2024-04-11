@@ -78,23 +78,18 @@ Conference Discussions
 ------
 
 
-+[金融科技研究前沿](https://yangliu-finance.github.io/files/Discuss_2023_Hong_FinTech.pdf)
++ **[金融科技研究前沿](https://yangliu-finance.github.io/files/Discuss_2023_Hong_FinTech.pdf)**
   + 洪永淼， 李玉婷， 姚加权
-  + 会议：2023《经济研究》-互联网数字经济论坛
-
-
-+ [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf)
-  + by Hui Chen, Yuhan Cheng, Yanchu Liu, and Ke Tang
-  + 2023 AMES (Asian Meeting of Econometric Society)
+  + 2023《经济研究》-互联网数字经济论坛
     
-+ **Teaching Economics to the Machine**, by Hui Chen, Yuhan Cheng, Yanchu Liu, and Ke Tang
-  + Conference: 2023 AMES (Asian Meeting of Econometric Society)
-  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf)
++ **[Teaching Economics to the Machine](https://yangliu-finance.github.io/files/Discuss_2023AMES_Chen_TeachingEconomicsToTheMachine.pdf)**
+  + Hui Chen, Yuhan Cheng, Yanchu Liu, and Ke Tang
+  + 2023 AMES (Asian Meeting of Econometric Society)
   
 
-+ **Green or Brown? Choosing an Overpriced Stock to Short Sell**, by Weiming (Elaine) Zhang, and Xintong Zhan
-  + Conference: 2023 CFRI&CIRF Joint Conference
-  + [Slides](https://yangliu-finance.github.io/files/Discuss_2023CFRI_Zhang_GreenOrBrown.pdf) 
++ **[Green or Brown? Choosing an Overpriced Stock to Short Sell](https://yangliu-finance.github.io/files/Discuss_2023CFRI_Zhang_GreenOrBrown.pdf)**
+  +  Weiming (Elaine) Zhang and Xintong Zhan
+  + 2023 CFRI&CIRF Joint Conference
 
 <!---
 Work in Progress
