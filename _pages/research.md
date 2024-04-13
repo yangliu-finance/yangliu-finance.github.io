@@ -10,20 +10,18 @@ author_profile: true
 Selected Publications
 ------
 
-+ **Trend Factor in China: The Role of Large Individual Trading**, with Guofu Zhou and Yingzi Zhu
++ **[Trend Factor in China: The Role of Large Individual Trading](https://ssrn.com/abstract=3402038)**, with Guofu Zhou and Yingzi Zhu
   + **<font color="blue">Review of Asset Pricing Studies</font>**<font color="blue">, forthcoming.</font>
   + *Best Paper Award in 2020 FMA Annual Meeting <small>(Semi-finalist)</small>, Best Paper Award in 2020 THU-PKU-RUC EMDS*
   + Presented at: 2018 CFRIC, 2018 IAFDS, <font color="blue"> 2019 CICF </font>, 2019 WRADSP, 2019 NZFM, 2019 AFBC, 2020 THU-PKU-RUC EMDS, 2020 FMA, <font color="blue"> 2021 AFA </font> (Ph.D. Poster).
-  + Available at: [https://ssrn.com/abstract=3402038](https://ssrn.com/abstract=3402038)
   + You can download the [Factor Data](https://yangliu-finance.github.io/files/LZZ4_TrendFactor_Monthly&Daily.xls) (monthly and daily) here. 
   + We propose a novel trend factor for the Chinese stock market, which incorporates both price and volume information to capture dominant individual trading, momentum, and liquidity. We find that volume plays a more significant role in the trend factor for China than for the US, reflecting the greater retail participation in China. By incorporating this trend factor into the 3-factor model of Liu et al. (2019), we propose a 4-factor model that explains a wide range of stylized facts and 60 representative anomalies. Our study highlights the important role of individual trading in asset pricing, especially in China.
   <!---
   seminars at Gothenburg University, Lund University, Southwestern University of Finance and Economics, Stockholm University, Tsinghua University, University of Cincinnati, UIUC, and Washington University in St. Louis;
   -->
 
-+ **Technical Analysis in the Stock Market: A Review**, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
++ **[Technical Analysis in the Stock Market: A Review](https://ssrn.com/abstract=3850494)**, with Yufeng Han, Guofu Zhou, and Yingzi Zhu
   + **<font color="blue">Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives</font>**<font color="blue">, forthcoming.</font>
-  + Available at: [https://ssrn.com/abstract=3850494](https://ssrn.com/abstract=3850494)
   + Technical analysis is the study for forecasting future asset prices with past data. In this survey, we review and extend studies on not only the time-series predictive power of technical indicators on the aggregated stock market and various portfolios, but also the cross-sectional predictability with various firm characteristics. While we focus on reviewing major academic research on using traditional technical indicators, but also discuss briefly recent studies that apply machine learning approaches, such as Lasso, neural network and genetic programming, to forecast returns both in the time-series and in the cross-section.
 
 
@@ -31,9 +29,8 @@ Working Papers
 ------
 
 
-+ **Maximizing the Sharpe Ratio: A Genetic Programming Approach**, with Guofu Zhou and Yingzi Zhu 
++ **[Maximizing the Sharpe Ratio: A Genetic Programming Approach](https://ssrn.com/abstract=3726609)**, with Guofu Zhou and Yingzi Zhu 
   + Presented at:  2018 IAFDS, 2019 CFPDS, 2019 CFRIC, 2020 China FinTech Conference, <font color="blue"> 2021 CICF</font>, <font color="blue"> 2023 AMES</font>, <font color="blue"> 2024 AFA</font>.
-  + Available at: [https://ssrn.com/abstract=3726609](https://ssrn.com/abstract=3726609)
   + While common machine learning algorithms focus on minimizing the mean-square errors of model fit, 
   we show that genetic programming, GP, is well-suited to maximize an economic objective, the Sharpe ratio of 
   the usual spread portfolio in the cross-section of expected stock returns. In contrast to popular regression-based 
@@ -44,13 +41,12 @@ Working Papers
   seminars in London Business School, Sichuan University, Tsinghua University, Washington University in St. Louis, and Zhejiang University;
   -->
 
-+ **Optimal Portfolio Choice with Economic Constraints: A Genetic Programming Approach**, with Guofu Zhou
++ **[Optimal Portfolio Choice with Economic Constraints: A Genetic Programming Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674858)**, with Guofu Zhou
   + Presented at: 2024 AI&Econometrics Conference (Xiamen Univ), <font color="blue"> 2024 AsianFA </font> (scheduled)
   + We develop a new approach to construct the mean-variance efficient portfolio by directly targeting the optimal weight with economic-motivated regularization that incorporates economic constraints to guard against overfitting and enhance interpretability. Instead of struggling with noisy estimators of expected return and covariance matrix, we interpret a portfolio rule as a mapping from historical data to optimal weights and take advantage of the vigorous searching capability of genetic programming (GP) to estimate this weighting function directly. While conventional penalties, such as L1 and L2 norms, are not feasible in our model due to GP's non-parametricity, we propose a trading-frictions-based regularization to control model complexity while preserving interpretability. The out-of-sample Sharpe ratio of our GP approach more than doubles those of existing methods. Beyond portfolio choice,  we also derive a model-implied expected return measure from the GP-optimal weight and find that it subsumes the predictability of other machine learning methods in the cross-section of stock returns. Our study highlights the importance of marrying machine learning and economic rationale for interpretable machine learning applications in asset pricing.
 
-+ **Overnight-Intraday Reversal Everywhere**, with Chun Liu, and Tianyu Wang
++ **[Overnight-Intraday Reversal Everywhere](https://ssrn.com/abstract=4605208)**, with Chun Liu, and Tianyu Wang
   + Presented at: <font color="blue">2016 AsianFA, 2016 CICF </font>
-  + Available at: [https://ssrn.com/abstract=4605208](https://ssrn.com/abstract=4605208)
   + A strategy that buys securities with low past overnight returns and sells securities with high past overnight returns generates sizeable out-of-sample intraday returns and Sharpe ratios in all major asset classes. This strategy – labeled as overnight-intraday reversal – delivers an average return that is about two to five times larger than those generated by the conventional reversal strategy. Investor sentiment, macro-news announcements, and market uncertainty fail to explain this overnight-intraday reversal return. Our findings are consistent with an asset class-specific market maker liquidity provision mechanism, and we find that cross sectional return dispersion could well predict the strategy returns.
 
 
