@@ -44,18 +44,9 @@ Working Papers
   seminars in London Business School, Sichuan University, Tsinghua University, Washington University in St. Louis, and Zhejiang University;
   -->
 
-+ **Optimal Portfolio Choice under Economic Constraints: A Genetic Programming Approach**, with Guofu Zhou
++ **Optimal Portfolio Choice with Economic Constraints: A Genetic Programming Approach**, with Guofu Zhou
   + Presented at: 2024 AI&Econometrics Conference (Xiamen Univ), <font color="blue"> 2024 AsianFA </font> (scheduled)
-  + We develop a new machine-learning-based approach to construct the mean-variance efficient portfolio by directly targeting the optimal weight with economic-motivated regularization that incorporates economic constraints to guard against overfitting and enhance interpretability. Instead of
-struggling with noisy estimators of expected return and covariance matrix, we interpret a portfolio rule as a mapping from historical data to optimal weights and take advantage of the vigorous
-searching capability of genetic programming (GP) to directly estimate this weighting function.
-While conventional penalties, such as L1 and L2 norms, are not feasible in our model due to GP’s
-non-parametricity, we propose a trading-frictions-based regularization to control model complexity
-while preserving interpretability. The out-of-sample Sharpe ratio of our GP approach more than
-doubles those of existing methods. Beyond portfolio choice, we also derive a model-implied expected return measure from the GP-optimal weight and find that it subsumes the predictability
-of other machine learning methods in the cross-section of stock returns. Our study highlights the
-importance of marrying machine learning and economic rationale for interpretable machine learning
-applications in asset pricing.
+  + We develop a new approach to construct the mean-variance efficient portfolio by directly targeting the optimal weight with economic-motivated regularization that incorporates economic constraints to guard against overfitting and enhance interpretability. Instead of struggling with noisy estimators of expected return and covariance matrix, we interpret a portfolio rule as a mapping from historical data to optimal weights and take advantage of the vigorous searching capability of genetic programming (GP) to estimate this weighting function directly. While conventional penalties, such as L1 and L2 norms, are not feasible in our model due to GP's non-parametricity, we propose a trading-frictions-based regularization to control model complexity while preserving interpretability. The out-of-sample Sharpe ratio of our GP approach more than doubles those of existing methods. Beyond portfolio choice,  we also derive a model-implied expected return measure from the GP-optimal weight and find that it subsumes the predictability of other machine learning methods in the cross-section of stock returns. Our study highlights the importance of marrying machine learning and economic rationale for interpretable machine learning applications in asset pricing.
 
 + **Overnight-Intraday Reversal Everywhere**, with Chun Liu, and Tianyu Wang
   + Presented at: <font color="blue">2016 AsianFA, 2016 CICF </font>
