@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research and Discussion"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -27,6 +27,14 @@ Selected Publications
 
 Working Papers
 ------
+
++ **[Different Opinions or Information Asymmetry: Machine-based Measurement and Consequences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004801)**, with Kang Guo and Tianyu Wang
++ Presented at: seminars at the Southwestern University of Finance and Economics, Zhongnan University of Economics and Law, and the 2024 Yuelu Asset Pricing Workshop (Hunan University)
++ We leverage machine learning to introduce belief dispersion measures to distinguish two key sources of disagreement, i.e., interpretation heterogeneity (IH) and information asymmetry (IA). IA and
+IH significantly outperform the human decision-based measure with superior pricing power and are irreplaceable components of disagreement. While IA negatively predicts the cross-section of
+stock returns, IH exhibits an asymmetric pricing pattern: IH positively predicts returns among underpriced stocks but negatively among overpriced stocks, consistent with the theoretical model
+of Atmaz and Basak (2018) in that disagreement amplifies expectation bias. Although limits-to arbitrage and sentiment contribute to both measures’ predictability, each has its distinct economic
+rationale, rooted in different sources of disagreement. Our results underscore that the structure of belief dispersion has important heterogeneous effects on market equilibrium.
 
 
 + **[Maximizing the Sharpe Ratio: A Genetic Programming Approach](https://ssrn.com/abstract=3726609)**, with Guofu Zhou and Yingzi Zhu 
