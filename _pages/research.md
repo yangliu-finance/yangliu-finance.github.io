@@ -28,8 +28,19 @@ Selected Publications
 Working Papers
 ------
 
+
++ **[Large Language Model Disagreement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395056)**, with Jiatao Liu and Tianyu Wang  **<font color="blue">NEW</font>**<font color="blue">
++ We present the <font color="blue">  first</font> investigation into large language model disagreement (LLMD) and its economic implications. We develop a novel LLMD measure by employing six cutting-edge LLMs (GPT, Claude, Gemini, DeepSeek-V3, DeepSeek-R1, and Qwen-2.5) to analyze a comprehensive collection of earnings call transcripts. Empirical results show that LLMD aligns with both human and machine learning-based measures and is more pronounced in stocks with smaller market capitalization, higher return volatility, and lower past return. Notably, LLMD significantly and negatively predicts cross-sectional stock returns, whereas human and machine learning-based measures fail to predict in our sample. Furthermore, LLMD is negatively associated with trading volume and positively linked to bid-ask spread, suggesting that disagreement across LLMs is primarily driven by information asymmetry stemming from differences in their corpus.
+
+
+
+
+
+
 + **[Different Opinions or Information Asymmetry: Machine-based Measurement and Consequences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5004801)**, with Kang Guo and Tianyu Wang  **<font color="blue">NEW</font>**<font color="blue">
-+ Presented at:  the 2024 Yuelu Asset Pricing Workshop at Hunan University, and seminars at the Southwestern University of Finance and Economics, Zhongnan University of Economics and Law
++ Presented at:  2025 China International Conference in Finance, 2025 Big Data and Market Microstructure Conference, 2025 Workshop of Economics with Heterogeneous Interacting Agents, 2025 China Financial Frontier Academic Forum,
++  2024 Yuelu Asset Pricing Workshop at Hunan University, and seminars at the Central University of Finance and Economics, Southwestern University of Finance and Economics, Tsinghua University, Zhongnan University
+of Economics and Law, the Southwestern University of Finance and Economics, Zhongnan University of Economics and Law
 + We leverage machine learning to introduce belief dispersion measures to distinguish two key sources of disagreement, i.e., interpretation heterogeneity (IH) and information asymmetry (IA). IA and
 IH significantly outperform the human decision-based measure with superior pricing power and are irreplaceable components of disagreement. While IA negatively predicts the cross-section of
 stock returns, IH exhibits an asymmetric pricing pattern: IH positively predicts returns among underpriced stocks but negatively among overpriced stocks, consistent with the theoretical model
