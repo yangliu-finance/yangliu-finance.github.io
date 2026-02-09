@@ -12,7 +12,7 @@ College of Finance and Statistics
 Hunan University  
 Changsha, Hunan, China, 410006  
 Email: liuyang9@hnu.edu.cn  
-SSRN: 
+SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2571229  
 Web: https://yangliu-finance.github.io, https://jt.hnu.edu.cn/info/1167/6077.htm
 
 **Academic Experience**  
