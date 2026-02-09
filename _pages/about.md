@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang LIU"
+title: "Yang LIU (刘扬）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,6 @@ redirect_from:
 
 Welcome to my website!
 
-**Yang LIU (刘扬）**
 College of Finance and Statistics
 Hunan University
 Changsha, Hunan, China, 410006
