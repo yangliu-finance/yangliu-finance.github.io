@@ -17,7 +17,7 @@ Web: https://yangliu-finance.github.io, https://jt.hnu.edu.cn/info/1167/6077.htm
 
 **Academic Experience**  
 Hunan University, College of Finance and Statistics  
-  Associate Dean, 2025-present  
+  Associate Dean, 2026-present  
   Associate Professor, 2025-present  
   Assistant Professor, 2021-2025
 
