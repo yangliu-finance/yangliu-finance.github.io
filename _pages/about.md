@@ -23,7 +23,7 @@ Hunan University, College of Finance and Statistics
 
 **Education**  
 Tsinghua University, Beijing, Ph.D. Finance, 2021  
-Washington University in St. Louis, St. Louis, visiting Ph.D. student, 2020  
+Washington University in St. Louis, St. Louis, visiting Ph.D. student, 2019  
 Central University of Finance and Economics, Beijing, B. Financial Engineering, 2015
 
 **Research Interests**  
