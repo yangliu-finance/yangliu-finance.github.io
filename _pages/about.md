@@ -10,10 +10,24 @@ redirect_from:
 
 Welcome to my website!
 
-I am an Associate Professor of Finance at the College of Finance and Statistics, Hunan University.
-I received my Ph.D. degree in Finance from Tsinghua University in 2021 and bachelor's in Financial Engineering from the Central University of Finance and Economics in 2015.
+**Yang LIU (刘扬）**
+College of Finance and Statistics
+Hunan University
+Changsha, Hunan, China, 410006
+Email: liuyang9@hnu.edu.cn
+Web: https://yangliu-finance.github.io
+
+**ACADEMIC EXPERIENCE**
+Hunan University, College of Finance and Statistics
+    Associate Dean, 2025-present
+    Associate Professor, 2025-present
+    Assistant Professor, 2021-2025
+
+**EDUCATION**
+Tsinghua University, Beijing, Ph.D. Finance, 2021
+Washington University in St. Louis, visiting Ph.D. student, 2020
+Central University of Finance and Economics, Beijing, B. Financial Engineering, 2015
 
 **Research Interests**: Empirical Asset Pricing, AI and Machine Learning in Finance, Behavioral Finance.
 
- 
-**e-mail**: liuyang9@hnu.edu.cn
+
